@@ -1,0 +1,13 @@
+body{background:#f3f6fb;color:#182235;font-family:Arial,sans-serif}
+.sidebar{background:#13233f;min-height:100vh;color:#fff}
+.brand{font-weight:800;letter-spacing:.5px;color:#fff;text-decoration:none;font-size:1.25rem}
+.sidebar .nav-link{color:#cbd5e1;border-radius:8px;padding:.7rem .85rem}
+.sidebar .nav-link:hover,.sidebar .nav-link.active{background:#263d63;color:#fff}
+.topbar{background:#fff;border-bottom:1px solid #e5eaf1}
+.card{border:0;border-radius:14px;box-shadow:0 4px 18px rgba(20,40,75,.06)}
+.stat-number{font-size:1.8rem;font-weight:800}
+.btn-primary{background:#2457c5;border-color:#2457c5}
+.table thead th{background:#f7f9fc;color:#526078;font-size:.83rem;text-transform:uppercase}
+.form-label{font-weight:600;color:#39465c}
+.content-wrap{max-width:1400px}
+footer{color:#8792a5;font-size:.82rem}
