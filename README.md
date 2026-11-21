@@ -50,6 +50,3 @@ git add .
 git commit -m "Versao inicial do AMP FRETES"
 ```
 Crie um repositório **público** no GitHub e siga as instruções de envio (`git remote add origin ...` e `git push -u origin main`). O link público do GitHub precisa ser criado na sua conta; este pacote ainda não está publicado em um repositório remoto.
-
-## Observações acadêmicas
-Este pacote implementa as funcionalidades centrais descritas na Etapa 2. Antes da entrega, execute os testes no seu XAMPP e confira os cadastros e o relatório. A Etapa 3 (gravação do vídeo) foi deixada de fora conforme solicitado.
